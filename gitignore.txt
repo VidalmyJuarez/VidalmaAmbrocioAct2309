@@ -1,0 +1,14 @@
+#Creado por: VidalmyJuarez
+#Archivos a ignorar
+
+#ignorando un achivo especifico
+.docx
+
+#ignorar archivos de Microsoft Excel
+*.xlsx
+
+#ignorando todos los archivos con extension xyz
+*.gif
+
+#ignorar la carpeta datos
+Configuracion/
